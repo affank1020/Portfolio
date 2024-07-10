@@ -32,6 +32,14 @@ export const projects = [
       link: "https://pythonbootcamp.com",
     },
     {
+      title: "Snake Escape (2024)",
+      subtitle: "C# | Unity 3D",
+      description:
+        "-- A 3D horror and survival web game featuring a twist on the classic Snake game.\n -- Built in a team of two for UNICS Game Jam 2024",
+      image: "Projects/SnakeEscape.png",
+      link: "https://4kh4n.itch.io/snake-escape",
+    },
+    {
       title: "2D Building Physics (2021)",
       subtitle: "C# | Unity 2D",
       description:
