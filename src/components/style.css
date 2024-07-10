@@ -1,0 +1,24 @@
+/* Custom About section styles */
+.about-section .title-font {
+    font-size: 2.25rem; /* Further increased base size for About section */
+}
+
+.about-section .text-3xl {
+    font-size: 3rem; /* Further increased text size for About section */
+}
+
+.about-section .text-4xl {
+    font-size: 3.5rem; /* Further increased headings size for About section */
+}
+
+.about-section .text-xl {
+    font-size: 2rem; /* Further increased subheadings size for About section */
+}
+
+.about-section .text-2xl {
+    font-size: 2.5rem; /* Further increased paragraph size for About section */
+}
+
+html {
+    scroll-behavior: smooth; /* Smooth scrolling for the entire page */
+}
