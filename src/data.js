@@ -8,12 +8,12 @@ export const projects = [
       link: "https://reactbootcamp.com",
     },
     {
-      title: "Buzzer Beater (2023)",
+      title: "Buzzer Beater (Tkinter) (2023)",
       subtitle: "Python | Tkinter",
       description:
         "-- A basketball-themed game where the player is challenged with scoring a basket from awkward positions within a time limit.\n-- Features a complete 2D physics and collision engine created from scratch by yours truly.",
       image: "Projects/TkinterGame.png",
-      link: "https://reedbarger.com",
+      link: "https://github.com/affank1020/buzzer-beater-tk",
     },
     {
       title: "AI Spam Checker (2023)",
