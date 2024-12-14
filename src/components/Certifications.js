@@ -38,7 +38,7 @@ export default function Certifications({ isVisible }) {
                     rel="noopener noreferrer"
                     className="mt-auto text-white bg-red border-0 py-2 px-6 rounded hover:text-red-500 inline-flex items-center justify-center"
                   >
-                    View Certificate
+                    View
                     <svg
                       className="w-4 h-4 ml-2"
                       fill="none"
